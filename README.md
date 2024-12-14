@@ -108,8 +108,12 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 
-- Special thanks to the Robotics and Aviation Club at RCOEM for their support.
+- Special thanks to the Robotics and Aviation Club at RCOEM for their support and 3D printing.
 - Inspired by various open-source robotics projects in the community.
+- CAD design reference from limpsquid.
+- Project concept reference from smartbuilds.io.
+
+
 
 ---
 
