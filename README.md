@@ -94,6 +94,11 @@ Welcome to the 6 Degrees of Freedom Gesture Controlled Robotic Arm project! This
 
 ---
 
+## Links to Resources
+
+- CAD/3D Printing model : https://www.thingiverse.com/limpsquid/designs
+- Working of Project : https://smartbuilds.io/diy-robot-arm-arduino-hand-gestures/
+
 ## Contributing
 
 We welcome contributions! Feel free to fork this repository, create a branch, and submit a pull request. For significant changes, please open an issue to discuss what you would like to change.
