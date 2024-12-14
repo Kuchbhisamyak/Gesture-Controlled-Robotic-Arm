@@ -67,7 +67,7 @@ Welcome to the 6 Degrees of Freedom Gesture Controlled Robotic Arm project! This
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/6DOF-gesture-controlled-arm.git
+   [git clone https://github.com/yourusername/6DOF-gesture-controlled-arm.git](https://github.com/Kuchbhisamyak/Gesture-Controlled-Robotic-Arm.git)
    ```
 2. Upload the `sender_code.ino` to the ESP32 controlling the MPU6050.
 3. Upload the `receiver_code.ino` to the ESP32 on the robotic arm.
