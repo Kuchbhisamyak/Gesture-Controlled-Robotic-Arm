@@ -45,9 +45,9 @@ Welcome to the 6 Degrees of Freedom Gesture Controlled Robotic Arm project! This
 │   ├── Receiver
 │   │   ├── receiver_code.ino     # Robotic arm control logic
 ├── Schematics
-│   ├── robotic_arm_circuit.pdf   # Circuit diagrams
+│   ├── https://smartbuilds.io/diy-robot-arm-arduino-hand-gestures/   # Circuit diagrams
 ├── Models
-│   ├── robotic_arm_design.stl    # 3D models for robotic arm
+│   ├── https://www.thingiverse.com/limpsquid/designs    # 3D models for robotic arm
 ├── Documentation
 │   ├── README.md                 # This file
 │   ├── setup_guide.md            # Step-by-step setup instructions
